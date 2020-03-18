@@ -4,6 +4,18 @@
 
 [1]: https://www.npmjs.com/package/@google-cloud/kms?activeTab=versions
 
+## [2.0.0](https://www.github.com/googleapis/nodejs-kms/compare/v1.6.3...v2.0.0) (2020-03-18)
+
+
+### ⚠ BREAKING CHANGES
+
+* move to typescript code generation (#264)
+
+### Features
+
+* deferred client initialization ([#286](https://www.github.com/googleapis/nodejs-kms/issues/286)) ([e116119](https://www.github.com/googleapis/nodejs-kms/commit/e11611913e553ac2581c528692174c6e4c0cb627))
+* move to typescript code generation ([#264](https://www.github.com/googleapis/nodejs-kms/issues/264)) ([ad02c1c](https://www.github.com/googleapis/nodejs-kms/commit/ad02c1c9978c9489314130a9fcee81d1d0244a0c))
+
 ### [1.6.3](https://www.github.com/googleapis/nodejs-kms/compare/v1.6.2...v1.6.3) (2020-02-10)
 
 
